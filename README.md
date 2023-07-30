@@ -12,3 +12,4 @@ Analysis models and patterns, Accessibility, Ethical Software Design, Internatio
 ### Lab exercises
 Can be found in the /Labs folder. The PDFs to the corresponding lab contain information with the given tasks. <br>
 The course was less about programming and more about understanding concepts like SDLC models, Test Driven Development, Agile methodologies and more.
+The last exercise (Lab8) was to implement a Linked List in a test-driven manner.
