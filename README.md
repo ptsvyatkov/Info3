@@ -5,9 +5,10 @@ Course introduction: https://people.f4.htw-berlin.de/~weberwu/info3/info.shtml
 
 ### Course Contents
 Software Life Cycle Models, in particular Agile Development methods <br>
-Design Patterns, SOLID and Clean Code, Test methods <br>
-Object-Oriented Modelling with UML (Use Cases, Use Case Diagram, Class Diagrams, State Diagrams, Sequence Diagrams) <br>
+Design Patterns, SOLID and Clean Code, Test methods (JUnit, TDD) <br>
+Object-Oriented Modelling with UML (Use Cases, Use Case Diagram, Class Diagrams, State and Sequence Diagrams) <br>
 Analysis models and patterns, Accessibility, Ethical Software Design, Internationalization and Localization <br>
 
 ### Lab exercises
-Can be found in the /Labs folder. The PDFs to the corresponding lab contain information with the given tasks.
+Can be found in the /Labs folder. The PDFs to the corresponding lab contain information with the given tasks. <br>
+The course was less about programming and more about understanding concepts like SDLC models, Test Driven Development, Agile methodologies and more.
